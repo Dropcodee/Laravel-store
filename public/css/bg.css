@@ -1,0 +1,12 @@
+.landing__bg {
+    background: url(../svg/main.png) no-repeat !important;
+    background-size: cover !important;
+    background-position: center;
+    height: 750px;
+    width: 100%;
+}
+.sidebar-dark-primary {
+    background: url(../svg/sidebar2.jpg);
+    background-size: cover;
+    background-position: center;
+}
