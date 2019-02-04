@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>SuperStore</title>
+        <title>FastStore</title>
         <link rel="stylesheet" href="{{ asset("css/uikit-rtl.min.css") }}">
         <link rel="stylesheet" href="{{ asset("css/uikit.min.css") }}">
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
